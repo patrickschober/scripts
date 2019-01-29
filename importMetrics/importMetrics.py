@@ -3,7 +3,7 @@ import requests
 import pandas as pd
 
 api_token = '<API-Token>'
-ws_id = '<WS-ID>
+ws_id = '<WS-ID>'
 auth_url = 'https://app.leanix.net/services/mtm/v1/oauth2/token' 
 request_url = 'https://app.leanix.net/services/metrics/v1/points' 
 
